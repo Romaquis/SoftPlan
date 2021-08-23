@@ -1,0 +1,14 @@
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.Services.deps.json
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.Services.dll
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.Services.pdb
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.csprojAssemblyReference.cache
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.AssemblyInfoInputs.cache
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.AssemblyInfo.cs
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.dll
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.pdb
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.Core.dll
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.Core.pdb
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain.Services\obj\Debug\netcoreapp3.1\Api.Domain.Services.csproj.CopyComplete

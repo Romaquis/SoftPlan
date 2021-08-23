@@ -1,0 +1,8 @@
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+C:\Romaquis\Curso\SoftPlan\SoftPlan\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb

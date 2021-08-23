@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoB8jdv5reNJSkdLNnNFFo54E/uHG+UwNJv5qY31r2oUjn5GkdexJF+Ap3d867Cn7+uHlVIY70T/r0viazgOXw==",
+  "success": true,
+  "projectFilePath": "C:\\Romaquis\\Curso\\SoftPlan\\SoftPlan\\Api.Domain.Core\\Api.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romaq\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512",
+    "C:\\Users\\romaq\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.1.2\\fluentvalidation.aspnetcore.9.1.2.nupkg.sha512",
+    "C:\\Users\\romaq\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.1.2\\fluentvalidation.dependencyinjectionextensions.9.1.2.nupkg.sha512",
+    "C:\\Users\\romaq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

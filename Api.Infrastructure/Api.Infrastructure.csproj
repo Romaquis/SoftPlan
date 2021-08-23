@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="CrossCutting\Map\**" />
+    <EmbeddedResource Remove="CrossCutting\Map\**" />
+    <None Remove="CrossCutting\Map\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.1.4" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Application\Api.Application.csproj" />
+    <ProjectReference Include="..\Api.Domain.Core\Api.Domain.Core.csproj" />
+    <ProjectReference Include="..\Api.Domain.Services\Api.Domain.Services.csproj" />
+    <ProjectReference Include="..\Api.Domain\Api.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
